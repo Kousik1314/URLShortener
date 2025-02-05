@@ -37,3 +37,10 @@ A Java-based URL shortener that generates short URLs and redirects users to the 
 ### Shortening a URL:
 ```bash
 curl -X POST -d "https://www.example.com" http://localhost:8080/shorten
+```
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/014c1211-deda-4c34-91e7-037476c7b4d5)
+![image](https://github.com/user-attachments/assets/4834ee34-6573-446d-84b2-aabec86677e4)
+![image](https://github.com/user-attachments/assets/4fb2f7bc-f693-464b-b0cd-b5fd8c051127)
